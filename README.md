@@ -1,2 +1,2 @@
 # java
-java-repo
+java-repo lava hub
